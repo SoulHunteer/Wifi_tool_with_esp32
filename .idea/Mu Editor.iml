@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Python" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Python/DLLs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Python/Lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Python/Lib/site-packages" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Python/Lib/site-packages/pip-21.1.3-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Python/Lib/site-packages/pythonwin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Python/Lib/site-packages/setuptools-57.4.0-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Python/Lib/site-packages/win32" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Python/Lib/site-packages/win32/lib" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="format" value="PLAIN" />
+    <option name="myDocStringFormat" value="Plain" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="py.test" />
+  </component>
+</module>
